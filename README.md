@@ -11,7 +11,7 @@ chosen from the candidate set which minimizes syntactic cyclomatic and
 asymptotic complexity against the given schema.
 
 Direct Preference Optimization (see [Rafailov et al,
-2023](https://arxiv.org/abs/2305.18290J) is a novel approach to refinement
+2023](https://arxiv.org/abs/2305.18290J)) is a novel approach to refinement
 learning from positive and negative samples to modify the behavior of
 large-scale unsupervised language models to align with human preferences This
 method simplifies the fine-tuning process, making it more stable and
